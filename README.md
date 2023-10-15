@@ -15,7 +15,7 @@ Kazuki Uchima is an Application Modernization Specialist at Google Cloud special
 ## Event Talks
 
 ### Google Cloud Next
-* GKE を使い倒して機械学習 / HPC に最適化された Kuberenetes 基盤を作る方法 - Google Cloud Next 23 (November 2023)
+* GKE を使い倒して機械学習 / HPC に最適化された Kuberenetes 基盤を作る方法 - Google Cloud Next ‘23 Tokyo (November 2023)
 * Getting Started with Anthos - Google Cloud Next On Air (August 2020)
 
 ### Google Cloud Day
