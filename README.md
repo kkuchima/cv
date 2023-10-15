@@ -1,3 +1,5 @@
+Kazuki Uchima is an Application Modernization Specialist at Google Cloud specialized in Kubernetes, Service Mesh and Serverless platform.
+
 ## Job History
 
 ### Google Cloud (March 2020 - Present)
