@@ -18,12 +18,12 @@
 
 ### Google Cloud Day
 * GKE ユーザー必見！進化の軌跡と最新情報をお届け - Google Cloud Day ‘23 (May 2023)
-* Anthos on-premises ~Anthos でオンプレミス環境のモダナイゼーションを実現~ - Google Cloud Day Digital (May 2021)
+* Anthos on-premises 〜 Anthos でオンプレミス環境のモダナイゼーションを実現 〜 - Google Cloud Day Digital (May 2021)
 
 ### Google Cloud on-air
 * 忙しい人のための Google Cloud Next ‘22 Recap (Application Modernization 編) - App Modernization OnAir (November 2022)
-* 実践！Cloud Run セキュリティ - Cloud on Air (内製化 Day) (July 2022)
-* Kubernetes でクラウドを管理！Config Controller でガードレールを構築する - App Modernization OnAir (March 2022)
+* [実践！Cloud Run セキュリティ](pdf/GC_Naiseika_Day_q3_0707_Session2.pdf) - Cloud on Air (内製化 Day) (July 2022)
+* [Kubernetes でクラウドを管理！Config Controller でガードレールを構築する](pdf/App_Modernization_OnAir_q1_0302_Session2.pdf) - App Modernization OnAir (March 2022)
 * HPE のプロフェッショナルが語る Anthos バックアップ設計の勘所 - App Modernization OnAir (December 2021)
 * 忙しい人のための Google Cloud Next ‘21 速報 (Infrastructure / Application Modernization 編) - App Modernization OnAir (October 2021)
 * GKE ネットワーキング 最新機能 Deep-dive - App Modernization OnAir (July 2021)
@@ -32,8 +32,8 @@
 * Google が提供するフルマネージドのサービスメッシュ「Anthos Service Mesh (ASM)」とは - App Modernization OnAir (June 2020)
 
 ### CloudNative Days
-* Gateway API と eBPF で進化する GKE Networking - CloudNative Days Fukuoka 2023 (August 2023)
-* GKE で実現する運用レスな世界 - CloudNative Days Tokyo 2022 (November 2022)
+* [Gateway API と eBPF で進化する GKE Networking](pdf/cndf2023_googlecloud_session_uchima.pdf) - CloudNative Days Fukuoka 2023 (August 2023)
+* [GKE で実現する運用レスな世界](pdf/GoogleCloud_Session_UchimaKazuki_CloudNativeDaysTokyo2022.pdf) - CloudNative Days Tokyo 2022 (November 2022)
 * GKE Security Overview - GKE のセキュリティ関連機能を一挙紹介 - Cloud Native Security Conference 2022 (August 2022)
 
 ## Articles
