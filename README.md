@@ -34,9 +34,13 @@ Kazuki Uchima is an Application Modernization Specialist at Google Cloud special
 * Google が提供するフルマネージドのサービスメッシュ「Anthos Service Mesh (ASM)」とは - App Modernization OnAir (June 2020)
 
 ### CloudNative Days
+* マイクロサービスの信頼性を支えるオブザーバビリティとサービスメッシュ - CloudNative Days Tokyo 2023 (December 2023)
 * [Gateway API と eBPF で進化する GKE Networking](pdf/cndf2023_googlecloud_session_uchima.pdf) - CloudNative Days Fukuoka 2023 (August 2023)
 * [GKE で実現する運用レスな世界](pdf/GoogleCloud_Session_UchimaKazuki_CloudNativeDaysTokyo2022.pdf) - CloudNative Days Tokyo 2022 (November 2022)
 * GKE Security Overview - GKE のセキュリティ関連機能を一挙紹介 - Cloud Native Security Conference 2022 (August 2022)
+
+### Findy
+* Platform Engineering - 開発生産性を高めるためのプラットフォーム作りとは - 開発生産性 Conference (November 2023)
 
 ## Articles
 
@@ -44,6 +48,7 @@ Kazuki Uchima is an Application Modernization Specialist at Google Cloud special
 * [コンテナオーケストレーションとGoogle Kubernetes Engine（GKE）の特徴とその活用](https://gihyo.jp/article/2023/09/modern-app-development-on-google-cloud-02) (September 2023)
 
 ### Zenn
+* GKE で GPU 使うのめっちゃ簡単 (December 2023)
 * [これから始める GKE (基本編)](https://zenn.dev/google_cloud_jp/articles/gke-korekara-101) (December 2022)
 * [カスタム組織ポリシーで GKE クラスタの安全な設定を強制する](https://zenn.dev/google_cloud_jp/articles/gke-custom-orgpolicy) (December 2022)
 * [Backup for GKE でクラスタ移行を試してみる](https://zenn.dev/kuchima/articles/bfg-cluster-migration) (September 2022)
