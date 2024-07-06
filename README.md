@@ -52,7 +52,7 @@ Kazuki Uchima is an Application Modernization Specialist at Google Cloud special
 * [コンテナオーケストレーションとGoogle Kubernetes Engine（GKE）の特徴とその活用](https://gihyo.jp/article/2023/09/modern-app-development-on-google-cloud-02) (September 2023)
 
 ### Zenn
-* [GKE をこれから学びたい・詳しくなりたい人向け！おすすめ学習リソース集](https://zenn.dev/google_cloud_jp/articles/gke-korekara-learning)
+* [GKE をこれから学びたい・詳しくなりたい人向け！おすすめ学習リソース集](https://zenn.dev/google_cloud_jp/articles/gke-korekara-learning) (December 2023)
 * [GKE で GPU 使うのめっちゃ簡単](https://zenn.dev/google_cloud_jp/articles/gke-autopilot-gpu-101) (December 2023)
 * [これから始める GKE (基本編)](https://zenn.dev/google_cloud_jp/articles/gke-korekara-101) (December 2022)
 * [カスタム組織ポリシーで GKE クラスタの安全な設定を強制する](https://zenn.dev/google_cloud_jp/articles/gke-custom-orgpolicy) (December 2022)
