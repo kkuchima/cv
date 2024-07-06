@@ -15,8 +15,12 @@ Kazuki Uchima is an Application Modernization Specialist at Google Cloud special
 ## Event Talks
 
 ### Google Cloud Next
+* 進化するコンテナ環境: Google Kubernetes Engine と Cloud Run の最新アップデートと使い所を徹底解説 - Google Cloud Next Tokyo ‘24 (August 2024)
 * GKE を使い倒して機械学習 / HPC に最適化された Kuberenetes 基盤を作る方法 - Google Cloud Next Tokyo ‘23 (November 2023)
 * Getting Started with Anthos - Google Cloud Next On Air (August 2020)
+
+### Generative AI Summit
+* 生成 AI 時代に Google Kubernetes Engine は何を解決してくれるのか - Generative AI Summit Tokyo '24 (March 2024)
 
 ### Google Cloud Day
 * GKE ユーザー必見！進化の軌跡と最新情報をお届け - Google Cloud Day ‘23 (May 2023)
@@ -48,7 +52,8 @@ Kazuki Uchima is an Application Modernization Specialist at Google Cloud special
 * [コンテナオーケストレーションとGoogle Kubernetes Engine（GKE）の特徴とその活用](https://gihyo.jp/article/2023/09/modern-app-development-on-google-cloud-02) (September 2023)
 
 ### Zenn
-* GKE で GPU 使うのめっちゃ簡単 (December 2023)
+* [GKE をこれから学びたい・詳しくなりたい人向け！おすすめ学習リソース集](https://zenn.dev/google_cloud_jp/articles/gke-korekara-learning)
+* [GKE で GPU 使うのめっちゃ簡単](https://zenn.dev/google_cloud_jp/articles/gke-autopilot-gpu-101) (December 2023)
 * [これから始める GKE (基本編)](https://zenn.dev/google_cloud_jp/articles/gke-korekara-101) (December 2022)
 * [カスタム組織ポリシーで GKE クラスタの安全な設定を強制する](https://zenn.dev/google_cloud_jp/articles/gke-custom-orgpolicy) (December 2022)
 * [Backup for GKE でクラスタ移行を試してみる](https://zenn.dev/kuchima/articles/bfg-cluster-migration) (September 2022)
@@ -64,3 +69,11 @@ Kazuki Uchima is an Application Modernization Specialist at Google Cloud special
 * [フルマネージドに進化した「Anthos Service Mesh」で運用を楽に！](https://medium.com/google-cloud-jp/%E3%83%95%E3%83%AB%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%89%E3%81%AB%E9%80%B2%E5%8C%96%E3%81%97%E3%81%9F-anthos-service-mesh-%E3%81%A7%E9%81%8B%E7%94%A8%E3%82%92%E6%A5%BD%E3%81%AB-ac062c92dc3b) (Septhember 2021)
 * [簡単構築！NUC でおうち Anthos を動かしてみよう](https://medium.com/google-cloud-jp/%E7%B0%A1%E5%8D%98%E6%A7%8B%E7%AF%89-nuc-%E3%81%A7%E3%81%8A%E3%81%86%E3%81%A1-anthos-%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-682e95112116) (May 2021)
 * [Traffic Director でプロキシレス サービスメッシュを試してみる](https://medium.com/google-cloud-jp/traffic-director-%E3%81%A7%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%AC%E3%82%B9-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%82%92%E8%A9%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-4c806883a8d1) (December 2020)
+
+## Education
+
+### Kyushu Institute of Technology (April 2012 - March 2014)
+Bachelor's Degree, Department of Bioscience and Bioinformatics  
+
+### National institute of Technology，Okinawa College (April 2007 - March 2012)
+Associate Degree, Department of Media Information Engineering  
