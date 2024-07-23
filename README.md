@@ -20,8 +20,8 @@ Technical Consultant specializing in SDDC (Software-Defined Data Center), Hybrid
 
 ### Mitsubishi UFJ Information Technology (April 2014 - March 2018)
 Systems Engineer / Project Manager
-* Designed and built the infrastructure for a Windows-based mobile messaging service. Implemented operational jobs and data replication mechanism for disaster recovery using Powershell. Introduced operational automation to reduce operational load and improve availability.
-* Led the Asia region integration project for a messaging system as Project Manager. Consolidated fragmented messaging services within the region, optimized traffic routing across Asia, Japan, US and EMEA. Successfully completed system migration through close communication with each region.
+* Designed and built the infrastructure for a Windows-based mobile messaging service. Built operational jobs and data replication mechanism for disaster recovery using Powershell. Introduced operational automation to reduce operational load and improve availability.
+* Led the APAC region integration project for a messaging system as Project Manager. Consolidated fragmented messaging services within the region, optimized traffic routing across APAC, Japan, US and EMEA. Successfully completed system migration through close communication with each region.
 * Led the migration of a large-scale messaging system, comprising hundreds of servers, from an on-premises vSphere environment to SaaS as Project Manager. Designed the overall architecture, including a hybrid cloud configuration during the migration period.
 
 
