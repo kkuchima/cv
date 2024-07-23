@@ -3,14 +3,27 @@ Kazuki Uchima is an Application Modernization Specialist at Google Cloud special
 ## Job History
 
 ### Google Cloud (March 2020 - Present)
-* Senior Specialist Customer Engineer, Application Modernization (November 2021 - Present)
-* Specialist Customer Engineer, Application Modernization (March 2020 - November 2021)
+Senior Specialist Customer Engineer for Kubernetes, Service Mesh, and Serverless technologies.
+* Provided technical support, including architecture design and troubleshooting, to a wide range of customers from digital natives to enterprises. Also provided technical onboarding and technical consulting to engineers in Google Cloud Japan.
+* Led the development and execution of GTM strategies for products such as Google Kubernetes Engine (GKE), Anthos Service Mesh (ASM), and Cloud Run in the Japan market. Delivered over 20 presentations at public events and published 15 articles. Launched and provided a prototyping program (Platform Engineering Jumpstart) to accelerate customer onboarding.
+* Created and delivered demos to hundreds of customers to educate them on Kubernetes multi-cluster architecture, security, and service mesh.
+* Collaborated closely with the product team to improve product quality and enhance official documentation.
+
 
 ### VMware (March 2018 - March 2020)
-* Associate Technical Consaltant, Professional Services (March 2018 - March 2020)
+Technical Consultant specializing in SDDC (Software-Defined Data Center), Hybrid Cloud, and Cloud Native Technologies (Kubernetes, Container).
+* Led design support services for vSphere-based private cloud infrastructures, incorporating Pivotal Container Service (now VMware Tanzu Platform). Designed system architectures and provided technical guidance to customers.
+* Led performance and capacity management accelerator services for vSphere-based private cloud infrastructures. Optimized customer's system operations using VMware Operations products, resulting in reduced operating costs.
+* Delivered emerging technology solutions design and PoC (Proof of Concept) support services, often as the first deployment in Japan or globally. Collaborated closely with the product team, to resolve critical issues. 
+* Developed  tools in Bash and Python to provide customers with additional functionality not natively supported by the product.
+
 
 ### Mitsubishi UFJ Information Technology (April 2014 - March 2018)
-* Associate Engineer (April 2014 - March 2018)
+Systems Engineer / Project Manager
+* Designed and built the infrastructure for a Windows-based mobile messaging service. Implemented operational jobs and data replication mechanism for disaster recovery using Powershell. Introduced operational automation to reduce operational load and improve availability.
+* Led the Asia region integration project for a messaging system as Project Manager. Consolidated fragmented messaging services within the region, optimized traffic routing across Asia, Japan, US and EMEA. Successfully completed system migration through close communication with each region.
+* Led the migration of a large-scale messaging system, comprising hundreds of servers, from an on-premises vSphere environment to SaaS as Project Manager. Designed the overall architecture, including a hybrid cloud configuration during the migration period.
+
 
 ## Event Talks
 
