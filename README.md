@@ -5,7 +5,7 @@ Kazuki Uchima is an Application Modernization Specialist at Google Cloud special
 ### Google Cloud (March 2020 - Present)
 Senior Specialist Customer Engineer for Kubernetes, Service Mesh, and Serverless technologies.
 * Provided technical support, including architecture design and troubleshooting, to a wide range of customers from digital natives to enterprises. Also provided technical onboarding and technical consulting to engineers in Google Cloud Japan.
-* Led the development and execution of GTM strategies for products such as Google Kubernetes Engine (GKE), Anthos Service Mesh (ASM), and Cloud Run in the Japan market. Delivered over 20 presentations at public events and published 15 articles. Launched and provided a prototyping program (Platform Engineering Jumpstart) to accelerate customer onboarding.
+* Led the development and execution of Go-To-Market strategies for products such as Google Kubernetes Engine (GKE), Anthos Service Mesh (ASM), and Cloud Run in the Japan market. Delivered over 20 presentations at public events and published 15 articles. Launched and provided a prototyping program (Platform Engineering Jumpstart) to accelerate customer onboarding.
 * Created and delivered demos to hundreds of customers to educate them on Kubernetes multi-cluster architecture, security, and service mesh.
 * Collaborated closely with the product team to improve product quality and enhance official documentation.
 
